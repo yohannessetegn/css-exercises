@@ -1,0 +1,21 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p{
+    background-color: #f0a9b5;
+}
+div{
+    color: blue;
+    font-size: 27px;
+    font-weight:bold;
+}
+.no3{
+    font-size: 22px;
+    font-weight: 300;
+}
+#no4{
+    background-color: rgb(113, 238, 113);
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}

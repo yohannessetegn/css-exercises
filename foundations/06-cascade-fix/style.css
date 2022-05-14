@@ -1,17 +1,22 @@
-.para,
-.small-para {
-  color: hsl(0, 100%, 50%);
+*{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.small-para {
-  font-size: 14px;
+
+.text.child, .para.small-para{
+  color: hsl(0, 100%, 50%);
+  /* font-weight: bold; */
+  font-size: 28px;
+  font-weight: lighter;
 }
 
 .para {
-  font-size: 22px;
+  font-size: 45px;
+  color: red;
+  /* font-weight: bold; */
 }
 
-.confirm {
+.confirm#confirm-button{
   background: green;
   color: white;
   font-weight: bold;
@@ -20,15 +25,11 @@
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  font-size: 20px;
+  font-size: 40px;
 }
 
-.child {
-  color: red;
-  font-size: 14px;
-}
-
-div.text {
+.text {
   color: green;
-  font-size: 22px;
+  font-size: 45px;
+  /* font-weight: bold; */
 }

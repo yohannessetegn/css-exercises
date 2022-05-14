@@ -1,0 +1,13 @@
+.avatar{
+    width: 150px;
+    height: 150px;
+
+}
+.avatar.distorted{
+    width: 100px;
+    height: 200px;
+}
+.original{
+    width: 193px;
+    height: 193px;
+}
